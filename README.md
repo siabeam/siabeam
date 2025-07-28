@@ -31,7 +31,8 @@ I'm currently expanding my skills in ML and software development by building han
 - Statistical modeling and explainable ML  
 - Algorithms, dashboards
 
+<!--
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/anastasiia-potapova-8a725721b/)  
 - Email: anastaciya.potapova@gmail.com
-
+-->
