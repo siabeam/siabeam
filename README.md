@@ -1,23 +1,10 @@
-## Hi
 
-<!--
-**siabeam/siabeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I'm a data analyst with a strong interest in machine learning, algorithms, programming etc.
 I enjoy working with data, exploring patterns, and applying statistical thinking to solve problems.  
-I'm currently expanding my skills in ML and software development by building hands-on projects and sharing them here on GitHub.
+I'm currently expanding my skills in ML, statistics and software development by building hands-on projects and sharing them here on GitHub.
+
+I simply come up with ideas of what I need or want to create and learn everything I need to build it. For example: I need to remember all the foreign words from the book I read, so my next project is a flash-card game for me to memorize all the words. Besides I want it to save stats of my attempts and progress for me to understand what I need to work on. (Repos: `html-css-course`, `flash-cards-vocabulary`)
 
 ## Tech Stack
 - Python, pandas, matplotlib/seaborn, scikit-learn  
@@ -31,8 +18,3 @@ I'm currently expanding my skills in ML and software development by building han
 - Statistical modeling and explainable ML  
 - Algorithms, dashboards
 
-<!--
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/anastasiia-potapova-8a725721b/)  
-- Email: anastaciya.potapova@gmail.com
--->
